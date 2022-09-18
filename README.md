@@ -9,7 +9,7 @@ A landing page for an architecture studio, containing the portfolio, about and c
 ### Links
 
 - [GitHub](https://github.com/marcoaccardi/ark-studio-landing-page)
-- [Live Site URL](https://ark-studio-landing-page.vercel.app)
+- [Website Live](https://ark-studio-landing-page.vercel.app)
 
 ## My process
 

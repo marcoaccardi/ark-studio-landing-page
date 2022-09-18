@@ -1,0 +1,36 @@
+@import "./variables";
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-family-sans;
+  font-size: 1.6rem;
+  color: $color-dark;
+  min-height: 100vh;
+  background: $color-white;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+button,
+input {
+  font-family: $font-family-sans;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
